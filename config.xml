@@ -1,12 +1,2 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<dataset>
-    <record><domain>repair-56.ru</domain><null></null><></><></><></><></><></><></><></><></></record>
-    <record><domain></domain><null></null><></><></><></><></><></><></><></><></></record>
-    <record><domain></domain><null></null><></><></><></><></><></><></><></><></></record>
-    <record><domain></domain><null></null><></><></><></><></><></><></><></><></></record>
-    <record><domain></domain><null></null><></><></><></><></><></><></><></><></></record>
-    <record><domain></domain><null></null><></><></><></><></><></><></><></><></></record>
-    <record><domain></domain><null></null><></><></><></><></><></><></><></><></></record>
-    <record><domain></domain><null></null><></><></><></><></><></><></><></><></></record>
-    <record><domain></domain><null></null><></><></><></><></><></><></><></><></></record>
-</dataset>
+<Main domains="repair-56.ru rrr newsite" />
